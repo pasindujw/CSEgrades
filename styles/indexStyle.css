@@ -1,0 +1,96 @@
+/*----------------------------------------------
+CSS Settings For HTML Div ExactCenter
+------------------------------------------------*/
+#main {
+
+width:960px;
+
+
+font-family:raleway
+}
+span {
+color:red
+}
+
+
+#login {
+position: absolute;
+    top: 100px;
+    
+    left: 0;
+    right: 0;
+
+    margin: auto;
+    
+    
+border-radius:25px;
+font-family:raleway;
+border:3px #01A9DB;
+    
+width:300px;
+float:center;
+
+padding:10px 40px 25px;
+    
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+   
+}
+login{
+background: #F7F7F7;
+
+
+}
+input[type=text],input[type=password] {
+width:98.5%;
+padding:10px;
+margin-top:8px;
+border:1px solid #ccc;
+padding-left:5px;
+font-size:16px;
+font-family:raleway
+}
+input[type=submit] {
+width:100%;
+background-color:#01A9DB;
+color:#fff;
+margin-left: 5px;
+padding:10px;
+font-size:20px;
+cursor:pointer;
+border-radius:5px;
+margin-bottom:15px;
+margin-top: 20px;
+}
+
+input[type=submit]:hover{
+    background: #0489B1;
+}
+
+#profile {
+padding:50px;
+border:1px dashed blue;
+font-size:20px;
+background-color:#DCE6F7
+}
+#logout {
+float:right;
+padding:5px;
+border:dashed 1px blue;
+}
+a {
+text-decoration:none;
+color:#6495ed
+}
+i {
+color:#6495ed
+}
+
+#tag{
+      font-family: sans-serif,serif;
+ position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 12px;
+}

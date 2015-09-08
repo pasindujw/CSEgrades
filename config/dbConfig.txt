@@ -1,0 +1,5 @@
+**Configuration**
+user: root
+password: 
+database: academy
+host: localhost

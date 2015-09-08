@@ -1,0 +1,79 @@
+.login {
+   
+   position: absolute;
+    top: 100px;
+    
+    left: 120px;
+
+    margin: auto;
+    
+    
+border-radius:5px;
+font-family:raleway;
+border:3px #01A9DB;
+    
+width:300px;
+float:center;
+
+padding:10px 40px 25px;
+    
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.year{
+
+top: 245px;
+
+
+}
+
+.data{
+font-family:raleway;
+}
+.gradeCircle{
+ color: steelblue;
+    border-radius: 80px;
+    width: 60px;
+    height: 40px;
+    padding: 8px;
+    margin-left: 120px;
+  
+    text-align: center;
+    font: 25px Arial, sans-serif;
+    
+-moz-box-shadow:    1px 2px 3px 4px #ccc;
+-webkit-box-shadow: 1px 2px 3px 4px #ccc;
+  box-shadow:        1px 2px 3px 4px #ccc;
+
+}
+
+
+#ranks{
+left: 160px;
+
+}
+
+.imageBox{
+border-radius: 20px;
+
+}
+
+.optionbox{
+ padding: 16px;
+    border-radius: 10px;
+ font: 95% Arial, Helvetica, sans-serif;
+ 
+    width: 450px;
+    height: 550px;
+    overflow-y:auto;
+    position: absolute;
+    left: 650px;
+    top: 80px;}
+
+
+.optionbox h1{
+font-size: 100%;
+    color: Steelblue;
+

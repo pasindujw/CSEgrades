@@ -1,0 +1,33 @@
+.contactBox{
+    position: fixed;
+top: 165;
+    
+    left: 445;
+
+webkit-animation-duration: 2s;
+  animation-duration: 1s;
+  -webkit-animation-name: bounceIn;
+  animation-name: bounceIn;
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.1);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.ball{
+position: fixed;
+    top: 343;
+    left:400px;
+    z-index: -1;
+    
+}

@@ -1,0 +1,152 @@
+.studentOnebox{
+
+    position:absolute;
+    left: 250px;
+    top  : 160px;
+    width: 180;
+    height: 540;
+    overflow: auto;   
+    margin: 10px;
+    padding: 16px;
+    background: #F7F7F7;
+    
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.studentTwobox{
+    position:absolute;
+    left: 690px;
+    top  : 160px;
+    width: 180;
+    height: 540;
+    overflow: auto;   
+    margin: 10px;
+    padding: 16px;
+    background: #F7F7F7;
+    
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+-webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+.studentTwobox h1{
+ font-size: 100%;
+}
+
+.studentOnebox h1{
+ font-size: 100%;
+}
+
+.studentOnebox h1{
+ font-size: 100%;
+}
+
+.studentOnebox h2{
+font-size: 120%;
+color: steelblue;
+
+}
+
+.intakebox h1{
+font-size: 100%;
+color: steelblue;
+
+}
+
+
+.data{
+    color: steelblue;
+
+}
+.intakebox{
+    position: absolute;
+    top: 80px;
+    left: 540px;
+
+}
+
+.selectStudent2 {
+
+   position: absolute;
+    top: 130px;
+    
+    left: 675px;
+
+    margin: auto;
+    
+    
+border-radius:5px;
+font-family:raleway;
+border:3px #01A9DB;
+    
+width:auto;
+height: auto;
+float:center;
+padding:0px 20px 5px;
+    
+}
+
+.selectStudent1 {
+   
+   position: absolute;
+    top: 130px;
+    
+    left: 240px;
+
+    margin: auto;
+    
+    
+border-radius:5px;
+font-family:raleway;
+border:3px #01A9DB;
+    
+width:auto;
+height: auto;
+float:center;
+
+padding:0px 20px 5px;
+    
+}
+
+.crop img {
+    width: 100px;
+    height: 100px;
+}
+
+.comparebox{
+ position: absolute;
+    top: 330px;
+    
+    left: 300px;
+
+    margin: auto;
+    
+    
+border-radius:5px;
+font-family:raleway;
+border:3px #01A9DB;
+    
+width:auto;
+height: 400;
+    overflow: auto;
+float:center;
+
+padding:5px 20px 10px;
+    
+
+}
+.propic img{
+ width: 100px;
+ height: 100px;
+}
+    td
+{
+    padding:0 50px 0 50px;
+  max-width: 205px;
+overflow: hidden;
+}
+
+
+
+ 

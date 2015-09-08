@@ -1,0 +1,85 @@
+
+.subBox{
+    width: 150px;
+-moz-box-shadow:    1px 1px 2px 3px #ccc;
+  -webkit-box-shadow: 1px 1px 2px 3px #ccc;
+  box-shadow:         1px 1px 2px 3px #ccc;
+background: #F7F7F7;
+    padding: 10px;
+    border-radius: 10px;
+ font: 95% Arial, Helvetica, sans-serif;
+    height: auto;
+    margin-top: 10px;
+}
+.subBox label{
+    color: steelblue;
+    padding: 2px;
+}
+.codeBox{
+width: 280px;
+-moz-box-shadow:    1px 1px 2px 3px #ccc;
+  -webkit-box-shadow: 1px 1px 2px 3px #ccc;
+  box-shadow:         1px 1px 2px 3px #ccc;
+background: #F7F7F7;
+    padding: 15px;
+    border-radius: 5px;
+ font: 95% Arial, Helvetica, sans-serif;
+height: 55; 
+max-height: 100px;
+overflow-y: auto;
+}
+.box{
+    position: absolute;
+left: 300px;
+
+}
+
+.rankBox{
+    width: 50px;
+-moz-box-shadow:    1px 1px 2px 3px #ccc;
+  -webkit-box-shadow: 1px 1px 2px 3px #ccc;
+  box-shadow:         1px 1px 2px 3px #ccc;
+background: #F7F7F7;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 10px;
+ font: 95% Arial, Helvetica, sans-serif;
+    height: auto;
+
+}
+
+.gpaBox{
+    width: 50px;
+-moz-box-shadow:    1px 1px 2px 3px #ccc;
+  -webkit-box-shadow: 1px 1px 2px 3px #ccc;
+  box-shadow:         1px 1px 2px 3px #ccc;
+background: #F7F7F7;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 10px;
+ font: 95% Arial, Helvetica, sans-serif;
+    height: auto;
+
+}
+
+
+.mine{
+    background: lightCyan;
+
+}
+
+
+a.back-to-top {
+	display: none;
+	width: 60px;
+	height: 60px;
+	text-indent: -9999px;
+	position: fixed;
+	z-index: 999;
+	right: 20px;
+	bottom: 20px;
+	background: steelblue url("../resources/img/up-arrow.png") no-repeat center 43%;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}

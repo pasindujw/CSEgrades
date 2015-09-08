@@ -1,0 +1,12 @@
+.box{
+height: 10%;
+    width: 600;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 300px;
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+    border-radius: 10px;
+
+}

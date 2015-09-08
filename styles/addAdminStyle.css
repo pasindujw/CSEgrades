@@ -1,0 +1,61 @@
+#login {
+    position: absolute;
+    top: 80px;
+    
+    left: 0;
+    right: 0;
+
+    margin: auto;
+    
+    
+border-radius:5px;
+font-family:raleway;
+border:3px #01A9DB;
+    
+width:300px;
+float:center;
+
+padding:10px 40px 25px;
+    
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+
+.topic{
+    color: gray;
+font-size: 23px;
+font: Arial, Helvetica, sans-serif;    
+}
+
+login{
+background: #F7F7F7;
+
+
+}
+input[type=text],input[type=password] {
+width:99.5%;
+padding:10px;
+margin-top:8px;
+border:1px solid #ccc;
+padding-left:5px;
+font-size:16px;
+font-family:raleway
+}
+input[type=submit] {
+width:100%;
+background-color:#01A9DB;
+color:#fff;
+
+padding:10px;
+font-size:20px;
+cursor:pointer;
+border-radius:5px;
+margin-bottom:15px;
+margin-top: 10px;
+}
+
+input[type=submit]:hover{
+    background: #0489B1;
+}

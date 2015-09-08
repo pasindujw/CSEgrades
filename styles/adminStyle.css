@@ -1,0 +1,112 @@
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+    width: 280px;
+}
+
+.welcome{
+color: #ffffff;
+
+
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+
+.profile:hover{
+font-size: 17px;
+
+}
+
+.picframe{
+    border: solid 3px grey;
+background: #F7F7F7;
+width: 250px;
+
+}
+
+.infobox{ 
+ font: 95% Arial, Helvetica, sans-serif;
+    width: 300px;
+    margin: 10px auto;
+    padding: 16px;
+  
+    flex-align: center;
+  flex-pack: center;
+    background: #F7F7F7;
+    float: left;
+}
+.box{
+
+    width: 280px;
+-moz-box-shadow:    1px 1px 2px 3px #ccc;
+  -webkit-box-shadow: 1px 1px 2px 3px #ccc;
+  box-shadow:         1px 1px 2px 3px #ccc;
+background: #F7F7F7;
+
+ font: 95% Arial, Helvetica, sans-serif;
+ 
+}
+
+.topic{
+    color: gray;
+font-size: 18px;
+font: Arial, Helvetica, sans-serif;    
+}
+
+#coursebtns{ 
+    position: absolute;
+    border-radius: 20px;
+left: 400px;
+top: 340px;  
+    
+    padding: 16px;   
+}
+
+#adminbtns{
+    position: absolute;
+ border-radius: 20px;
+   left: 800px;
+    top: 100px;
+    
+    padding: 16px;  
+
+}
+
+#stdbtns{
+    position: absolute;
+ left: 400px;
+    top: 100px;
+    padding: 16px;
+  border-radius: 20px;
+
+}
+
+#settingsbtns{ 
+    position: absolute;
+    border-radius: 20px;
+left: 800px;
+top: 390px;  
+    
+    padding: 16px;   
+}

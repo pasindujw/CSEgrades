@@ -1,0 +1,36 @@
+.login {
+   
+   position: absolute;
+    top: 100px;
+    
+    left: 120px;
+
+    margin: auto;
+    
+    
+border-radius:5px;
+font-family:raleway;
+border:3px #01A9DB;
+    
+width:300px;
+float:center;
+
+padding:10px 40px 25px;
+    
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.year{
+
+top: 245px;
+
+
+}
+
+.info{
+    position: fixed;
+    left: 600px;
+
+}
